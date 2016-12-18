@@ -8,7 +8,6 @@ import java.util.Calendar;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
         concludedLongMonths(2016);
         getDateMonday(2016, 2);
         System.out.println(isFriday13(2017, 1, 13));
